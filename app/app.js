@@ -1,5 +1,6 @@
 import './app.scss';
 import './index.html';
+import _ from 'lodash';
 import { Car } from './car';
 
 function component () {
